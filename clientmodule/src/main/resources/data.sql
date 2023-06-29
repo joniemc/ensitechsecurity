@@ -1,0 +1,1 @@
+INSERT INTO tbl_user (user_name,user_password,user_state,user_login) VALUES ('admin','$2a$10$Zz1yDW/WBFN3u.F0.ftVw.CrrTf8cY5FnRf6uW8we9OK.6V2Fgwuu','A',1);
